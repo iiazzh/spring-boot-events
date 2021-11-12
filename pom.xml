@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.suhasmh</groupId>
+        <artifactId>springbootbasic</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <!--groupid tag is not necessary here since it is inherited form springbootbasic parent-->
+    <artifactId>springeventsdemo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>springeventsdemo</name>
+    <description>A spring boot App which demonstrates Spring Events creation and handling</description>
+    <dependencies>
+        <!--		Begin new dependencies-->
+        <!--		End new dependencies-->
+    </dependencies>
+</project>
